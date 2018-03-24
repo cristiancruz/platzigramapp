@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Platzigram</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">login</string>
+    <string name="dont_have_account">¿No tienes cuenta?, </string>
+    <string name="create_here"> crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_password_createacount">Contraseña</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="text_button_createaccount">Registrate</string>
+    <string name="toolbar_title_createaccount">Crear cuenta</string>
+    <string name="username_card">Cristian Cruz</string>
+    <string name="firstWorkCard">Hace</string>
+    <string name="time_card">2 dias</string>
+    <string name="like_number_card">10 Me gusta</string>
+    <string name="like">Me gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_profile">Yo</string>
+    <string name="tab_home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titleimage_detail">"Todo pasa en la playa"</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam assumenda consectetur, cum dolores eaque expedita ipsa magnam modi molestiae officiis optio perspiciatis provident quaerat quia quisquam quo saepe sint, unde?</string>
+    <string name="transitionname_picture">transitionname_picture</string>
+    <string name="searchhinttext">Buscar</string>
+</resources>
